@@ -1,0 +1,14 @@
+.userInput {
+    width: 60%;
+    background-color: grey;
+    box-shadow: 0 2px 3px 6px grey;
+    border: 2px double black;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.userInput input {
+    color: chocolate;
+}
